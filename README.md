@@ -18,3 +18,7 @@ about the yield from the crops.
 * Model used - Random Forest.
 * Training Accuracy:- **98.7%**
 * Validation Accuracy:- **92.3%**
+# Instructions for running the app
+1. Install streamlit 
+2. Then on terminal write the command **streamlit run app.py**
+3. The Web app will run on a local host
