@@ -22,3 +22,5 @@ about the yield from the crops.
 1. Install streamlit 
 2. Then on terminal write the command **streamlit run app.py**
 3. The Web app will run on a local host
+
+Plant Disease Dataset link : https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
